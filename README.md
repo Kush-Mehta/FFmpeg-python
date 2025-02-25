@@ -151,9 +151,9 @@ For more details and advanced use cases, check out the official GitHub repositor
 
 # References & Further Reading
 
-• 📖 -[FFmpeg Official Documentation](
-• 🐍 ffmpeg-python GitHub Repository
-• 🎬 FFmpeg Cheat Sheet
+• 📖 -[FFmpeg Official Documentation](https://ffmpeg.org/documentation.html)
+• 🐍 -[ffmpeg-python GitHub Repository](https://github.com/kkroening/ffmpeg-python)
+• 🎬 -[FFmpeg Cheat Sheet](https://gist.github.com/tayvano/6e2d456a9897f55025e25035478a3a50)
 
 
 
