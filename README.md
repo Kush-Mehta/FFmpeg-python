@@ -1,9 +1,10 @@
-# Introduction
+# Simplifying Video Processing with ffmpeg-python 🎬
+## Introduction
 FFmpeg is one of the most powerful open-source multimedia frameworks, widely used for video and audio processing. However, working with FFmpeg's command-line interface (CLI) can be complex, especially for beginners.
 
 This is where ```` ffmpeg-python ```` comes in—a Pythonic interface for FFmpeg that makes it easier to build and execute FFmpeg commands directly in Python. With ```` ffmpeg-python ````, you can convert videos, extract audio, trim clips, and even apply effects in a structured, readable, and efficient way.
 
-# Installation & Setup
+## Installation & Setup
 Before using ````ffmpeg-python````, make sure FFmpeg is installed on your system.
 
 🔹Install FFmpeg
@@ -26,7 +27,7 @@ pip install ffmpeg-python
 ````
 Now, you’re ready to process videos using Python! 🚀
 
-# Key Features & Explanation
+## Key Features & Explanation
 1️⃣ Simplicity & Readability
 
 Compared to FFmpeg's CLI, ````ffmpeg-python```` provides a structured and readable syntax, making it easier to understand and modify.
@@ -137,7 +138,7 @@ ffmpeg.run(stream)
 
 ✅ Batch Processing: Converting multiple videos at once using loops.
 
-# Conclusion
+## Conclusion
 
 FFmpeg is an extremely powerful multimedia tool, but its command-line interface can be complex. ````ffmpeg-python```` provides a Pythonic way to work with FFmpeg, making video processing easier, more structured, and automation-friendly.
 
@@ -149,7 +150,7 @@ For more details and advanced use cases, check out the official GitHub repositor
 
 🚀 Start using ffmpeg-python today and simplify your video processing workflow!
 
-# References & Further Reading
+## References & Further Reading
 
 • 📖 -[FFmpeg Official Documentation](https://ffmpeg.org/documentation.html)
 • 🐍 -[ffmpeg-python GitHub Repository](https://github.com/kkroening/ffmpeg-python)
